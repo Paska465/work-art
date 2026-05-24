@@ -1,4 +1,4 @@
-# work-art
-this show the basic html code
+# high school HTML CODING
+this show the basic html code i had done during my high school times
 
 
